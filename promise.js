@@ -11,7 +11,6 @@ const listBooks = () => {
 };
 
 // listBooks();
-console.log("dddd")
 const addBook = (newBook) => {
 
     const promise1=new Promise((resolve,reject) => {
